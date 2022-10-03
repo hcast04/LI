@@ -1,0 +1,5 @@
+para abrir el prolog irse al folder y hacer "swipl"
+
+para ejecutar el programa --> "[programa]."
+
+al haber lo hecho, para ejecutar una función --> "funcion()."
